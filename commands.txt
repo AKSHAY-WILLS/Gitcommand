@@ -1,0 +1,4 @@
+list
+initialize a repositary with -- git init
+clone an existing one using -- git clone <repository_url>
+status of untracked file -- git status
