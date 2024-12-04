@@ -2,3 +2,7 @@ list
 initialize a repositary with -- git init
 clone an existing one using -- git clone <repository_url>
 status of untracked file -- git status
+stage files for commit using git add <file_name> or git add
+commit your changes with git commit -m "Your commit message"
+the commit history using git log 
+new branch with git branch <branch_name>
